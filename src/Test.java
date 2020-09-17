@@ -47,6 +47,14 @@ public class Test {
 	}
 	
 	
+	double d[] = new double [2];
+	d[0]=1.12;
+	d[1]=23;
+	for (int m=0; m< d.length;m++)
+	{ System.out.println(d[m]);
+	
+	}
+	
 			
 	}
 }
