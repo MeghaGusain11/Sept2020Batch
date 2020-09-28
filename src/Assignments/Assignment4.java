@@ -145,7 +145,12 @@ public String marksCalculator(int marks) {
 public void factorial(int f)
 {
 	int fact=1;
-	while()
+	while(f>=1)
+	{
+		fact=fact*f;
+		f--;
+	}
+		
 }
 	
 }
