@@ -150,7 +150,7 @@ public void factorial(int f)
 		fact=fact*f;
 		f--;
 	}
-		
+		  
 }
 	
 }
